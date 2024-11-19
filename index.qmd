@@ -1,1 +1,9 @@
 # Introduction
+
+American Idol is a reality TV show where aspiring singers compete for the winning title. Once the contestants go through the final round of auditions, the they perform in front of a panel of judges and a live audience. Overall, we want to analyze what factors are correlated with winners/finalists and what contributes to the success of the show. We decided on this topic because we both grew up watching American Idol and are interested in the statistics in the background. Through our data analysis, we will examine the following questions:
+
+* Are certain song choices associated with a higher change of reaching the finals or winning?
+* Which audition cities produced the most finalists or winners across seasons?
+* Are younger contestants more likely to be eliminated earlier or later in the competition?
+* Are certain judges associated with higher-rated seasons?
+* How has the gender ratio of finalists changed over the seasons?

@@ -1,5 +1,141 @@
 # Data
+We will answer our questions using 6 different datasets. The data was collected from Wikipedia for seasons 1-18 and converted into various csv files. We found the link on Github containing all the files.
 
 ## Description
+1. **Songs**: includes songs that contestants sang and competed with on American Idol from seasons 1-18 (with dimensions 2430 x 8)
+2. **Auditions**: auditions, cities, dates, and venues (with dimension 143 x 12)
+3. **Elimination Chart**: eliminations by week (with dimension 457 x 46)
+4. **Finalists**: information on top contestants, including birthday, hometown, and description (with dimensions 191 x 5)
+5. **Ratings**: episode ratings and reviews (with dimensions 594 x 17)
+6. **Seasons**: season-level information, including season winner, runner up and release dates and judges (with dimensions 19 x 10)
 
 ## Missing value analysis
+```{r}
+auditions <- read.csv("auditions.csv")
+```
+```{r}
+library(ggplot2)
+na_counts_aud <- colSums(is.na(auditions))
+na_aud_df <- data.frame(
+  Column = names(na_counts_aud),
+  NA_Counts = na_counts_aud
+)
+
+ggplot(na_aud_df, aes(x=reorder(Column, -NA_Counts), y = NA_Counts))+
+  geom_bar(stat = 'identity', fill='steelblue')+
+  theme_minimal()+
+  labs(
+    title = "# of NA Values for the Audition Dataset",
+    x='Column',
+    y='# of NA Values'
+  )+
+  theme(axis.text.x = element_text(angle=45,hjust=1))
+```
+```{r}
+songs <- read.csv("songs_all.csv")
+```
+```{r}
+library(ggplot2)
+na_counts_songs <- colSums(is.na(songs))
+na_songs_df <- data.frame(
+  Column = names(na_counts_songs),
+  NA_Counts = na_counts_songs
+)
+
+ggplot(na_songs_df, aes(x=reorder(Column, -NA_Counts), y = NA_Counts))+
+  geom_bar(stat = 'identity', fill='steelblue')+
+  theme_minimal()+
+  labs(
+    title = "# of NA Values for the Songs Dataset",
+    x='Column',
+    y='# of NA Values'
+  )+
+  theme(axis.text.x = element_text(angle=45,hjust=1))
+```
+```{r}
+Seasons <- read.csv("seasons.csv")
+```
+```{r}
+na_counts_seasons <- colSums(is.na(Seasons))
+na_seas_df <- data.frame(
+  Column = names(na_counts_seasons),
+  NA_Counts = na_counts_seasons
+)
+
+ggplot(na_seas_df, aes(x=reorder(Column, -NA_Counts), y = NA_Counts))+
+  geom_bar(stat = 'identity', fill='steelblue')+
+  theme_minimal()+
+  labs(
+    title = "# of NA Values for the Seasons Dataset",
+    x='Column',
+    y='# of NA Values'
+  )+
+  theme(axis.text.x = element_text(angle=45,hjust=1))
+```
+```{r}
+ratings <- read.csv("ratings.csv")
+```
+```{r}
+na_counts_rating <- colSums(is.na(ratings))
+na_rate_df <- data.frame(
+  Column = names(na_counts_rating),
+  NA_Counts = na_counts_rating
+)
+
+ggplot(na_rate_df, aes(x=reorder(Column, -NA_Counts), y = NA_Counts))+
+  geom_bar(stat = 'identity', fill='steelblue')+
+  theme_minimal()+
+  labs(
+    title = "# of NA Values for the Ratings Dataset",
+    x='Column',
+    y='# of NA Values'
+  )+
+  theme(axis.text.x = element_text(angle=45,hjust=1))
+```
+
+
+
+```{r}
+finalists <- read.csv("finalists.csv")
+```
+```{r}
+
+na_counts_fin <- colSums(is.na(finalists))
+na_fin_df <- data.frame(
+  Column = names(na_counts_fin),
+  NA_Counts = na_counts_fin
+)
+
+ggplot(na_fin_df, aes(x=reorder(Column, -NA_Counts), y = NA_Counts))+
+  geom_bar(stat = 'identity', fill='steelblue')+
+  theme_minimal()+
+  labs(
+    title = "# of NA Values for the Finalists Dataset",
+    x='Column',
+    y='# of NA Values'
+  )+
+  theme(axis.text.x = element_text(angle=45,hjust=1))
+```
+```{r}
+elim <- read.csv("elimination_chart.csv")
+```
+```{r}
+
+na_counts_elim <- colSums(is.na(elim))
+na_elim_df <- data.frame(
+  Column = names(na_counts_elim),
+  NA_Counts = na_counts_elim
+)
+
+ggplot(na_elim_df, aes(x=reorder(Column, -NA_Counts), y = NA_Counts))+
+  geom_bar(stat = 'identity', fill='steelblue')+
+  theme_minimal()+
+  labs(
+    title = "# of NA Values for the Elimation Chart Dataset",
+    x='Column',
+    y='# of NA Values'
+  )+
+  theme(axis.text.x = element_text(angle=45,hjust=1))
+```
+Overall, the Elimination Chart has the most missing values. Due to this, we decided to not use this specific dataset for our analysis and will tweak our questions accordingly. For example, we will rephrase the question: 'Are younger contestants more likely to be eliminated earlier or later in the competition?' to 'What is the age distribution among the finalists?'. For the Audition datset, the column 'guest_judge' has the most missing values. This makes sense because there is not a guest judge on every episode. Interestingly, the finalists dataset is missing a lot of values. When further examining the dataset, we found it because there is a "hometown" and "birthplace" column. For those with the same hometown and birthplace, hometown is left as NA. For this reason, we will take out the 'hometown' column and just use the 'birthplace' column. The ratings dataset has a lot of missing values as well, but we don't need to use these columns for the questions we are interested in answering. 
+
