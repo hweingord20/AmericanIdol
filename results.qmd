@@ -18,9 +18,6 @@ finalists <- read.csv("finalists.csv")
 finalists_geocoded <- finalists |>
   geocode(address = Birthplace, method = 'osm')
 ```
-```{r}
-finalists_geocoded
-```
 
 ```{r}
 ggplot() + 
@@ -50,3 +47,34 @@ ggplot() +
   ylim(25,50)+
   ggtitle("USA Distribution of Finalists")
 ```
+```{r fig.height=7}
+elim <- read.csv("elimination_chart.csv")
+elim_cleaned <- elim |>
+  filter(!is.na(gender) & !is.na(season))
+
+ggplot(elim_cleaned, aes(x=gender))+
+  geom_bar(fill="#63C5DA",color="black")+
+  facet_wrap(~ season,scales="free_x",labeller = labeller(season = function(x) paste("Season", x)))+
+  labs(title = "Gender Distribution by Season", x = "Gender", y="Count")+
+  theme_minimal()
+```
+```{r}
+ filtered_gender <- elim_cleaned[elim_cleaned$place == 1, ] 
+ggplot(filtered_gender, aes(x = gender)) + 
+  geom_bar(fill="#63C5DA",color="black") + 
+  labs(title = "Gender Distribution of Winners", x = "Gender", y = "Count") + 
+  theme_minimal()
+```
+```{r}
+install.packages("lubridate")
+library(lubridate)
+ratings <- read.csv("ratings.csv")
+ratings$airdate <- mdy(ratings$airdate) 
+
+ggplot(ratings, aes(x = airdate, y = viewers_in_millions)) + 
+  geom_point(color = "#63C5DA") + 
+  scale_x_date(labels = scales::date_format("%Y"), breaks = "1 year") + 
+  labs(x = "Airdate", y = "Viewers (in millions)", title = "Viewers Over Time") + 
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
