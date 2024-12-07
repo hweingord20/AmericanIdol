@@ -1,3 +1,52 @@
 # Results
 
-helllloooooo
+## Graphs
+```{r}
+#install.packages("maps")
+#install.packages("dplyr")
+#install.packages("tidygeocoder")
+```
+
+
+```{r}
+library(ggplot2)
+library(maps)
+library(dplyr)
+library(tidygeocoder)
+world_map <- map_data("world")
+finalists <- read.csv("finalists.csv")
+finalists_geocoded <- finalists |>
+  geocode(address = Birthplace, method = 'osm')
+```
+```{r}
+finalists_geocoded
+```
+
+```{r}
+ggplot() + 
+  geom_map(data = world_map, map = world_map, 
+           aes(x = long, y = lat, map_id = region, group = group), 
+           fill = "white", color = "gray",alpha=0.3) + 
+  geom_point(data = finalists_geocoded, 
+             aes(x = long, y = lat), 
+             color = "#63C5DA", alpha = 0.6, size = 2) + 
+  theme_minimal() + 
+   ylim(-50,100)+
+  ggtitle("World Distribution of Finalists")
+```
+```{r}
+usa_map <- filter(world_map,region=="USA")
+usa_finalists <- filter(finalists_geocoded, long < -50, lat >0)
+ggplot() + 
+  geom_map(data = usa_map, map = usa_map, 
+           aes(x = long, y = lat, map_id = region, group = group), 
+           fill = "white", color = "black") + 
+  geom_point(data = usa_finalists, 
+             aes(x = long, y = lat), 
+             color = "#63C5DA", alpha = 0.6, size = 2) + 
+  theme_minimal() + 
+  coord_fixed(ratio=1.2)+
+  xlim(-130,-60)+
+  ylim(25,50)+
+  ggtitle("USA Distribution of Finalists")
+```
