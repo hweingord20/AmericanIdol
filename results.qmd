@@ -166,7 +166,66 @@ ggplot(heatmap_data, aes(x = factor(season), y = judge, fill = avg_viewers.avg_v
 
 ```
 
+```{r}
+library(dplyr)
+library(lubridate)
+library(ggplot2)
 
+# Load datasets
+seasons <- read.csv("seasons.csv")        # 'season' and 'winner' columns
+finalists <- read.csv("finalists.csv")    # 'contestant' and 'Birthday' columns
+
+finalists <- finalists |>
+  rename(season = Season)
+
+# Step 1: Parse year from Birthday column
+finalists <- finalists |>
+  mutate(Birthday = dmy(Birthday),               # Convert to Date format
+         BirthYear = year(Birthday))            # Extract year
+
+# Step 2: Add year to seasons
+# Create a vector of season years (exclude 2017)
+season_years <- setdiff(2002:2020, 2017)
+
+# Add corresponding year to the seasons dataset
+seasons <- seasons |>
+  mutate(year = season_years[season])
+
+
+
+# Step 3: Merge finalists with seasons
+finalists_with_season <- finalists |>
+  left_join(seasons, by = "season") |>
+  mutate(is_winner = Contestant == winner)  # Mark winners
+
+# Step 4: Calculate age during season
+finalists_with_season <- finalists_with_season |>
+  mutate(age = year - BirthYear)
+
+winners_only <- finalists_with_season |>
+  filter(is_winner)
+
+# Step 5: Visualize age distribution
+ggplot(winners_only, aes(x = age, fill = is_winner)) +
+  geom_density(fill = "steelblue", alpha = 0.2) +
+  labs(
+    title = "Age Distribution of Winners",
+    x = "Age",
+    y = "Density"
+  ) +
+  theme_minimal()
+
+```
+
+```{r}
+finalists_with_season <- finalists_with_season |>
+  mutate(group = ifelse(is_winner, "Winner", "Finalist")) 
+
+ggplot(finalists_with_season, aes(x = age, color = group, fill = group)) + 
+  geom_density(alpha = 0.4) + 
+  labs( title = "Age Distribution: Finalists vs Winners", x = "Age", y = "Density" ) + scale_color_manual(values = c("Finalist" = "steelblue", "Winner" = "darkred")) + scale_fill_manual(values = c("Finalist" = "steelblue", "Winner" = "darkred")) +
+  theme_minimal()
+```
 
 
 
