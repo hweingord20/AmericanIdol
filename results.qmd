@@ -77,4 +77,96 @@ ggplot(ratings, aes(x = airdate, y = viewers_in_millions)) +
   labs(x = "Airdate", y = "Viewers (in millions)", title = "Viewers Over Time") + 
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
+```{r}
+ratings$numerators <- sapply(ratings$X18_49_rating_share, function(x) {
+  if (grepl("/", x)) { # If there's a fraction
+    as.numeric(strsplit(x, "/")[[1]][1]) # Split and take the numerator as a number
+  } else {
+    as.numeric(x) # Otherwise, convert the value directly to a float
+  }
+})
+
+print(ratings)
+```
+
+
+
+```{r}
+ratings$weekrank <- as.numeric(as.character(ratings$weekrank))
+
+ggplot(ratings, aes(x = viewers_in_millions, y = weekrank )) +
+  geom_point(size = 1.5, alpha = 0.4) + # Add points for the scatter plot
+  scale_y_reverse()+
+  labs(
+    title = "Weekly Rank vs. Viewers in Millions",
+    x = "Viewers (in Millions)",
+    y = "Week Rank"
+  ) +
+  theme_minimal() 
+```
+
+
+
+```{r}
+library(dplyr)
+library(ggplot2)
+
+# Data: Judges per season
+judges <- data.frame(
+  season = 1:18,
+  judge = c(
+    "Paula Abdul, Simon Cowell, Randy Jackson",
+    "Paula Abdul, Simon Cowell, Randy Jackson",
+    "Paula Abdul, Simon Cowell, Randy Jackson",
+    "Paula Abdul, Simon Cowell, Randy Jackson",
+    "Paula Abdul, Simon Cowell, Randy Jackson",
+    "Paula Abdul, Simon Cowell, Randy Jackson",
+    "Paula Abdul, Simon Cowell, Randy Jackson",
+    "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson",
+    "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson",
+    "Randy Jackson, Jennifer Lopez, Steven Tyler",
+    "Randy Jackson, Jennifer Lopez, Steven Tyler",
+    "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban",
+    "Harry Connick Jr., Jennifer Lopez, Keith Urban",
+    "Harry Connick Jr., Jennifer Lopez, Keith Urban",
+    "Harry Connick Jr., Jennifer Lopez, Keith Urban",
+    "Katy Perry, Luke Bryan, Lionel Richie",
+    "Katy Perry, Luke Bryan, Lionel Richie",
+    "Katy Perry, Luke Bryan, Lionel Richie"
+  )
+)
+
+average_viewers <- ratings |>
+  group_by(season) %>% summarise(avg_viewers = mean(viewers_in_millions, na.rm = TRUE))
+
+# Example ratings data: Average viewers per season
+avg_ratings <- data.frame(
+  season = c(1:13, 15:18),
+  avg_viewers = average_viewers
+)
+
+# Step 1: Merge judges with average viewership
+seasonal_data <- merge(judges, avg_ratings, by = "season")
+
+# Step 2: Prepare heatmap data: One judge per row
+heatmap_data <- seasonal_data |>
+  separate_rows(judge, sep = ", ")  # Split multiple judges into separate rows
+
+# Step 3: Create the heatmap
+ggplot(heatmap_data, aes(x = factor(season), y = judge, fill = avg_viewers.avg_viewers)) +
+  geom_tile(color = "white") +
+  scale_fill_gradient(low = "lightblue", high = "darkblue", name = "Avg Viewers\n(Millions)") +
+  labs(
+    title = "Seasonal Viewership by Judge",
+    x = "Season",
+    y = "Judge"
+  ) +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+```
+
+
+
+
 
