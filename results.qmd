@@ -3,6 +3,7 @@
 ##Viewership and Judges
 
 ```{r, error=TRUE}
+#| echo: false
 install.packages("lubridate")
 library(lubridate)
 library(scales)
@@ -17,7 +18,7 @@ ggplot(ratings, aes(x = airdate, y = viewers_in_millions)) +
   labs(x = "Airdate", y = "Viewers (in millions)", title = "Viewers Over Time") + 
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ```
-
+The graph demonstrates the distribution of viewers over the years, where each year corresponds to one season (with season 1 starting in 2002). Note that the multiple points within each years represents the different episodes for that one season. The peak viewership was in 2007 and 2008 for season 5 and season 6, at around 45 million viewers. The graph is right skewed - in the more recent years, the number of viewers drastically decreased. This decrease could potentially be from increase of popularity with other singing shows, such as The Voice. Another possible explanation for the decrease in viewers over the years could be related to the judges for each season. To further explore this idea, we created a heatmap showing the number of viewers per season and the different judges.  
 
 ```{r, error = TRUE}
 library(dplyr)
@@ -75,6 +76,8 @@ ggplot(heatmap_data, aes(x = factor(season), y = judge, fill = avg_viewers.avg_v
   ) +
   theme_minimal()
 ```
+Th
+
 ##Ranking
 ```{r}
 library(ggridges)

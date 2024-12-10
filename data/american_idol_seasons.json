@@ -1,0 +1,3055 @@
+{
+    "name": "All Seasons",
+    "children": [
+        {
+            "season": "1",
+            "episodes": [
+                {
+                    "show_number": 1,
+                    "viewers_in_millions": 9.85,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 2,
+                    "viewers_in_millions": 11.24,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 3,
+                    "viewers_in_millions": 10.3,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 4,
+                    "viewers_in_millions": 9.47,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 5,
+                    "viewers_in_millions": 9.08,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 6,
+                    "viewers_in_millions": 8.53,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 7,
+                    "viewers_in_millions": 10.28,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 8,
+                    "viewers_in_millions": 7.5,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 9,
+                    "viewers_in_millions": 8.97,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 10,
+                    "viewers_in_millions": 10.28,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 11,
+                    "viewers_in_millions": 9.39,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 12,
+                    "viewers_in_millions": 10.77,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 13,
+                    "viewers_in_millions": 9.13,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 14,
+                    "viewers_in_millions": 12.2,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 15,
+                    "viewers_in_millions": 10.2,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 16,
+                    "viewers_in_millions": 12.2,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 17,
+                    "viewers_in_millions": 10.82,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 18,
+                    "viewers_in_millions": 12.67,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 19,
+                    "viewers_in_millions": 12.05,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 20,
+                    "viewers_in_millions": 15.29,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 21,
+                    "viewers_in_millions": 14.1,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 22,
+                    "viewers_in_millions": 14.98,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 23,
+                    "viewers_in_millions": 16.94,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 24,
+                    "viewers_in_millions": 18.69,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 25,
+                    "viewers_in_millions": 22.77,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                }
+            ]
+        },
+        {
+            "season": "2",
+            "episodes": [
+                {
+                    "show_number": 1,
+                    "viewers_in_millions": 26.5,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 2,
+                    "viewers_in_millions": 23.6,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 3,
+                    "viewers_in_millions": 24.9,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 4,
+                    "viewers_in_millions": 24.1,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 5,
+                    "viewers_in_millions": 26.0,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 6,
+                    "viewers_in_millions": 20.1,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 7,
+                    "viewers_in_millions": 19.3,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 8,
+                    "viewers_in_millions": 20.0,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 9,
+                    "viewers_in_millions": 18.7,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 10,
+                    "viewers_in_millions": 19.7,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 11,
+                    "viewers_in_millions": NaN,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 12,
+                    "viewers_in_millions": 19.5,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 13,
+                    "viewers_in_millions": 20.0,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 14,
+                    "viewers_in_millions": 17.1,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 15,
+                    "viewers_in_millions": 18.7,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 16,
+                    "viewers_in_millions": 18.0,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 17,
+                    "viewers_in_millions": 22.0,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 18,
+                    "viewers_in_millions": 18.3,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 19,
+                    "viewers_in_millions": 21.1,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 20,
+                    "viewers_in_millions": 17.2,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 21,
+                    "viewers_in_millions": 19.8,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 22,
+                    "viewers_in_millions": 19.0,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 23,
+                    "viewers_in_millions": 21.2,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 24,
+                    "viewers_in_millions": 20.3,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 25,
+                    "viewers_in_millions": 20.1,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 26,
+                    "viewers_in_millions": 19.2,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 27,
+                    "viewers_in_millions": 20.0,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 28,
+                    "viewers_in_millions": 18.1,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 29,
+                    "viewers_in_millions": 14.1,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 30,
+                    "viewers_in_millions": 20.6,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 31,
+                    "viewers_in_millions": 19.5,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 32,
+                    "viewers_in_millions": 20.4,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 33,
+                    "viewers_in_millions": 20.2,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 34,
+                    "viewers_in_millions": 22.2,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 35,
+                    "viewers_in_millions": 22.7,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 36,
+                    "viewers_in_millions": 23.4,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 37,
+                    "viewers_in_millions": 25.3,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 38,
+                    "viewers_in_millions": 16.9,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 39,
+                    "viewers_in_millions": 25.7,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 40,
+                    "viewers_in_millions": 30.4,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 41,
+                    "viewers_in_millions": 38.1,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                }
+            ]
+        },
+        {
+            "season": "3",
+            "episodes": [
+                {
+                    "show_number": 1,
+                    "viewers_in_millions": 29.0,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 2,
+                    "viewers_in_millions": 28.6,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 3,
+                    "viewers_in_millions": 29.4,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 4,
+                    "viewers_in_millions": 29.6,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 5,
+                    "viewers_in_millions": 28.3,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 6,
+                    "viewers_in_millions": 21.1,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 7,
+                    "viewers_in_millions": 30.1,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 8,
+                    "viewers_in_millions": 28.8,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 9,
+                    "viewers_in_millions": 26.2,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 10,
+                    "viewers_in_millions": 24.5,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 11,
+                    "viewers_in_millions": 25.2,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 12,
+                    "viewers_in_millions": 22.1,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 13,
+                    "viewers_in_millions": 26.6,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 14,
+                    "viewers_in_millions": 23.0,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 15,
+                    "viewers_in_millions": 19.7,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 16,
+                    "viewers_in_millions": 25.5,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 17,
+                    "viewers_in_millions": 19.3,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 18,
+                    "viewers_in_millions": 24.6,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 19,
+                    "viewers_in_millions": 22.0,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 20,
+                    "viewers_in_millions": 26.7,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 21,
+                    "viewers_in_millions": 22.9,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 22,
+                    "viewers_in_millions": 27.0,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 23,
+                    "viewers_in_millions": 20.4,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 24,
+                    "viewers_in_millions": 25.9,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 25,
+                    "viewers_in_millions": 21.9,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 26,
+                    "viewers_in_millions": 23.5,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 27,
+                    "viewers_in_millions": 20.6,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 28,
+                    "viewers_in_millions": 23.1,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 29,
+                    "viewers_in_millions": 15.3,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 30,
+                    "viewers_in_millions": 23.4,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 31,
+                    "viewers_in_millions": 21.2,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 32,
+                    "viewers_in_millions": 23.4,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 33,
+                    "viewers_in_millions": 21.2,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 34,
+                    "viewers_in_millions": 11.7,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 35,
+                    "viewers_in_millions": 22.8,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 36,
+                    "viewers_in_millions": 21.2,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 37,
+                    "viewers_in_millions": 23.2,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 38,
+                    "viewers_in_millions": 22.3,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 39,
+                    "viewers_in_millions": NaN,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 40,
+                    "viewers_in_millions": 23.6,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 41,
+                    "viewers_in_millions": 22.4,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 42,
+                    "viewers_in_millions": 10.8,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 43,
+                    "viewers_in_millions": 25.1,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 44,
+                    "viewers_in_millions": 28.8,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                }
+            ]
+        },
+        {
+            "season": "4",
+            "episodes": [
+                {
+                    "show_number": 1,
+                    "viewers_in_millions": 33.6,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 2,
+                    "viewers_in_millions": 26.7,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 3,
+                    "viewers_in_millions": 28.1,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 4,
+                    "viewers_in_millions": 26.6,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 5,
+                    "viewers_in_millions": 28.5,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 6,
+                    "viewers_in_millions": 26.2,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 7,
+                    "viewers_in_millions": 28.8,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 8,
+                    "viewers_in_millions": 26.1,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 9,
+                    "viewers_in_millions": 27.1,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 10,
+                    "viewers_in_millions": 26.3,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 11,
+                    "viewers_in_millions": 23.5,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 12,
+                    "viewers_in_millions": 28.3,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 13,
+                    "viewers_in_millions": 26.7,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 14,
+                    "viewers_in_millions": 23.6,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 15,
+                    "viewers_in_millions": 26.9,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 16,
+                    "viewers_in_millions": 24.3,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 17,
+                    "viewers_in_millions": 23.9,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 18,
+                    "viewers_in_millions": 27.7,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 19,
+                    "viewers_in_millions": 26.9,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 20,
+                    "viewers_in_millions": 28.4,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 21,
+                    "viewers_in_millions": 24.7,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 22,
+                    "viewers_in_millions": 27.6,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 23,
+                    "viewers_in_millions": 20.9,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 24,
+                    "viewers_in_millions": 20.2,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 25,
+                    "viewers_in_millions": 26.4,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 26,
+                    "viewers_in_millions": 24.9,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 27,
+                    "viewers_in_millions": 24.5,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 28,
+                    "viewers_in_millions": 24.1,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 29,
+                    "viewers_in_millions": 25.6,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 30,
+                    "viewers_in_millions": 25.0,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 31,
+                    "viewers_in_millions": 24.1,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 32,
+                    "viewers_in_millions": 22.7,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 33,
+                    "viewers_in_millions": 25.5,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 34,
+                    "viewers_in_millions": 24.4,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 35,
+                    "viewers_in_millions": 24.4,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 36,
+                    "viewers_in_millions": 25.4,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 37,
+                    "viewers_in_millions": 24.7,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 38,
+                    "viewers_in_millions": 26.6,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 39,
+                    "viewers_in_millions": 25.0,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 40,
+                    "viewers_in_millions": 27.9,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 41,
+                    "viewers_in_millions": NaN,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 42,
+                    "viewers_in_millions": 28.1,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 43,
+                    "viewers_in_millions": 30.3,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                }
+            ]
+        },
+        {
+            "season": "5",
+            "episodes": [
+                {
+                    "show_number": 1,
+                    "viewers_in_millions": 35.53,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 2,
+                    "viewers_in_millions": 31.65,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 3,
+                    "viewers_in_millions": 34.96,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 4,
+                    "viewers_in_millions": 32.44,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 5,
+                    "viewers_in_millions": 30.18,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 6,
+                    "viewers_in_millions": 30.4,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 7,
+                    "viewers_in_millions": 31.15,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 8,
+                    "viewers_in_millions": 28.74,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 9,
+                    "viewers_in_millions": 26.96,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 10,
+                    "viewers_in_millions": 28.78,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 11,
+                    "viewers_in_millions": 30.16,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 12,
+                    "viewers_in_millions": 31.69,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 13,
+                    "viewers_in_millions": 23.38,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 14,
+                    "viewers_in_millions": 30.09,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 15,
+                    "viewers_in_millions": 29.64,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 16,
+                    "viewers_in_millions": 26.32,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 17,
+                    "viewers_in_millions": 28.56,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 18,
+                    "viewers_in_millions": 30.38,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 19,
+                    "viewers_in_millions": 26.63,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 20,
+                    "viewers_in_millions": 32.77,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 21,
+                    "viewers_in_millions": 28.09,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 22,
+                    "viewers_in_millions": 33.36,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 23,
+                    "viewers_in_millions": 27.68,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 24,
+                    "viewers_in_millions": 31.71,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 25,
+                    "viewers_in_millions": 27.66,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 26,
+                    "viewers_in_millions": 28.83,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 27,
+                    "viewers_in_millions": 26.23,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 28,
+                    "viewers_in_millions": 29.65,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 29,
+                    "viewers_in_millions": 22.64,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 30,
+                    "viewers_in_millions": 28.44,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 31,
+                    "viewers_in_millions": 27.63,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 32,
+                    "viewers_in_millions": 28.67,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 33,
+                    "viewers_in_millions": 28.27,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 34,
+                    "viewers_in_millions": 28.58,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 35,
+                    "viewers_in_millions": 29.26,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 36,
+                    "viewers_in_millions": 28.85,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 37,
+                    "viewers_in_millions": 27.88,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 38,
+                    "viewers_in_millions": 28.33,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 39,
+                    "viewers_in_millions": 27.67,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 40,
+                    "viewers_in_millions": 31.78,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 41,
+                    "viewers_in_millions": 36.38,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                }
+            ]
+        },
+        {
+            "season": "6",
+            "episodes": [
+                {
+                    "show_number": 1,
+                    "viewers_in_millions": 37.44,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 2,
+                    "viewers_in_millions": 36.94,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 3,
+                    "viewers_in_millions": 32.6,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 4,
+                    "viewers_in_millions": 33.87,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 5,
+                    "viewers_in_millions": 33.65,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 6,
+                    "viewers_in_millions": 31.85,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 7,
+                    "viewers_in_millions": 33.36,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 8,
+                    "viewers_in_millions": 27.91,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 9,
+                    "viewers_in_millions": 31.2,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 10,
+                    "viewers_in_millions": 28.89,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 11,
+                    "viewers_in_millions": 29.53,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 12,
+                    "viewers_in_millions": 30.46,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 13,
+                    "viewers_in_millions": 24.44,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 14,
+                    "viewers_in_millions": 30.65,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 15,
+                    "viewers_in_millions": 29.78,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 16,
+                    "viewers_in_millions": 27.39,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 17,
+                    "viewers_in_millions": 27.95,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 18,
+                    "viewers_in_millions": 28.55,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 19,
+                    "viewers_in_millions": 27.52,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 20,
+                    "viewers_in_millions": 29.83,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 21,
+                    "viewers_in_millions": 26.18,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 22,
+                    "viewers_in_millions": 29.96,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 23,
+                    "viewers_in_millions": 27.08,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 24,
+                    "viewers_in_millions": 28.18,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 25,
+                    "viewers_in_millions": 26.89,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 26,
+                    "viewers_in_millions": 26.67,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 27,
+                    "viewers_in_millions": 26.1,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 28,
+                    "viewers_in_millions": 26.78,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 29,
+                    "viewers_in_millions": 28.56,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 30,
+                    "viewers_in_millions": 26.55,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 31,
+                    "viewers_in_millions": 28.93,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 32,
+                    "viewers_in_millions": 26.55,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 33,
+                    "viewers_in_millions": 26.93,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 34,
+                    "viewers_in_millions": 26.73,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 35,
+                    "viewers_in_millions": 28.75,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 36,
+                    "viewers_in_millions": 25.47,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 37,
+                    "viewers_in_millions": 28.2,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 38,
+                    "viewers_in_millions": 24.23,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 39,
+                    "viewers_in_millions": 28.05,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 40,
+                    "viewers_in_millions": 25.33,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 41,
+                    "viewers_in_millions": 30.74,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                }
+            ]
+        },
+        {
+            "season": "7",
+            "episodes": [
+                {
+                    "show_number": 1,
+                    "viewers_in_millions": 33.415,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 2,
+                    "viewers_in_millions": 30.437,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 3,
+                    "viewers_in_millions": 29.274,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 4,
+                    "viewers_in_millions": 27.091,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 5,
+                    "viewers_in_millions": 28.223,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 6,
+                    "viewers_in_millions": 25.573,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 7,
+                    "viewers_in_millions": 27.914,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 8,
+                    "viewers_in_millions": 26.278,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 9,
+                    "viewers_in_millions": 29.962,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 10,
+                    "viewers_in_millions": 24.752,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 11,
+                    "viewers_in_millions": 29.006,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 12,
+                    "viewers_in_millions": 28.885,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 13,
+                    "viewers_in_millions": 23.374,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 14,
+                    "viewers_in_millions": 28.592,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 15,
+                    "viewers_in_millions": 27.553,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 16,
+                    "viewers_in_millions": 26.232,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 17,
+                    "viewers_in_millions": 28.463,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 18,
+                    "viewers_in_millions": 28.324,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 19,
+                    "viewers_in_millions": 26.502,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 20,
+                    "viewers_in_millions": 29.884,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 21,
+                    "viewers_in_millions": 27.127,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 22,
+                    "viewers_in_millions": 27.338,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 23,
+                    "viewers_in_millions": 26.078,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 24,
+                    "viewers_in_millions": 24.758,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 25,
+                    "viewers_in_millions": 25.742,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 26,
+                    "viewers_in_millions": 26.117,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 27,
+                    "viewers_in_millions": 24.839,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 28,
+                    "viewers_in_millions": 24.668,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 29,
+                    "viewers_in_millions": 17.751,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 30,
+                    "viewers_in_millions": 20.133,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 31,
+                    "viewers_in_millions": 23.646,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 32,
+                    "viewers_in_millions": 23.339,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 33,
+                    "viewers_in_millions": 24.74,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 34,
+                    "viewers_in_millions": 23.196,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 35,
+                    "viewers_in_millions": 25.094,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 36,
+                    "viewers_in_millions": 22.8,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 37,
+                    "viewers_in_millions": 21.755,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 38,
+                    "viewers_in_millions": 22.867,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 39,
+                    "viewers_in_millions": 24.772,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 40,
+                    "viewers_in_millions": 24.863,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 41,
+                    "viewers_in_millions": 27.061,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                },
+                {
+                    "show_number": 42,
+                    "viewers_in_millions": 31.661,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Randy Jackson"
+                }
+            ]
+        },
+        {
+            "season": "8",
+            "episodes": [
+                {
+                    "show_number": 1,
+                    "viewers_in_millions": 30.424,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 2,
+                    "viewers_in_millions": 30.322,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 3,
+                    "viewers_in_millions": 22.773,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 4,
+                    "viewers_in_millions": 25.897,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 5,
+                    "viewers_in_millions": 25.539,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 6,
+                    "viewers_in_millions": 27.364,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 7,
+                    "viewers_in_millions": 24.613,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 8,
+                    "viewers_in_millions": 26.601,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 9,
+                    "viewers_in_millions": 26.384,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 10,
+                    "viewers_in_millions": 24.941,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 11,
+                    "viewers_in_millions": 24.825,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 12,
+                    "viewers_in_millions": 25.374,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 13,
+                    "viewers_in_millions": 24.79,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 14,
+                    "viewers_in_millions": 24.541,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 15,
+                    "viewers_in_millions": 20.889,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 16,
+                    "viewers_in_millions": 24.309,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 17,
+                    "viewers_in_millions": 22.776,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 18,
+                    "viewers_in_millions": 21.498,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 19,
+                    "viewers_in_millions": 25.767,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 20,
+                    "viewers_in_millions": 25.547,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 21,
+                    "viewers_in_millions": 21.886,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 22,
+                    "viewers_in_millions": 23.705,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 23,
+                    "viewers_in_millions": 26.025,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 24,
+                    "viewers_in_millions": 23.102,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 25,
+                    "viewers_in_millions": 24.41,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 26,
+                    "viewers_in_millions": 24.342,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 27,
+                    "viewers_in_millions": 22.813,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 28,
+                    "viewers_in_millions": 22.976,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 29,
+                    "viewers_in_millions": 24.378,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 30,
+                    "viewers_in_millions": 24.114,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 31,
+                    "viewers_in_millions": 23.963,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 32,
+                    "viewers_in_millions": 23.947,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 33,
+                    "viewers_in_millions": 23.261,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 34,
+                    "viewers_in_millions": 22.369,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 35,
+                    "viewers_in_millions": 23.414,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 36,
+                    "viewers_in_millions": 23.574,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 37,
+                    "viewers_in_millions": 22.712,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 38,
+                    "viewers_in_millions": 24.67,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 39,
+                    "viewers_in_millions": 23.822,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 40,
+                    "viewers_in_millions": 28.838,
+                    "judging_panel": "Paula Abdul, Simon Cowell, Kara DioGuardi, Randy Jackson"
+                }
+            ]
+        },
+        {
+            "season": "9",
+            "episodes": [
+                {
+                    "show_number": 1,
+                    "viewers_in_millions": 29.936,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 2,
+                    "viewers_in_millions": 26.393,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 3,
+                    "viewers_in_millions": 26.384,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 4,
+                    "viewers_in_millions": 26.854,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 5,
+                    "viewers_in_millions": 24.452,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 6,
+                    "viewers_in_millions": 25.71,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 7,
+                    "viewers_in_millions": 24.705,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 8,
+                    "viewers_in_millions": 20.999,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 9,
+                    "viewers_in_millions": 27.892,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 10,
+                    "viewers_in_millions": 25.172,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 11,
+                    "viewers_in_millions": 23.922,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 12,
+                    "viewers_in_millions": 18.629,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 13,
+                    "viewers_in_millions": 24.213,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 14,
+                    "viewers_in_millions": 22.959,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 15,
+                    "viewers_in_millions": 18.033,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 16,
+                    "viewers_in_millions": 23.526,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 17,
+                    "viewers_in_millions": 23.56,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 18,
+                    "viewers_in_millions": 19.424,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 19,
+                    "viewers_in_millions": 22.752,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 20,
+                    "viewers_in_millions": 20.701,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 21,
+                    "viewers_in_millions": 19.339,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 22,
+                    "viewers_in_millions": 22.913,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 23,
+                    "viewers_in_millions": 20.51,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 24,
+                    "viewers_in_millions": 24.211,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 25,
+                    "viewers_in_millions": 21.437,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 26,
+                    "viewers_in_millions": 21.845,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 27,
+                    "viewers_in_millions": 20.492,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 28,
+                    "viewers_in_millions": 20.836,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 29,
+                    "viewers_in_millions": 20.168,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 30,
+                    "viewers_in_millions": 20.639,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 31,
+                    "viewers_in_millions": 21.018,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 32,
+                    "viewers_in_millions": 19.669,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 33,
+                    "viewers_in_millions": 18.824,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 34,
+                    "viewers_in_millions": 19.417,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 35,
+                    "viewers_in_millions": 20.057,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 36,
+                    "viewers_in_millions": 17.498,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 37,
+                    "viewers_in_millions": 19.58,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 38,
+                    "viewers_in_millions": 19.167,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 39,
+                    "viewers_in_millions": 19.569,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 40,
+                    "viewers_in_millions": 18.684,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 41,
+                    "viewers_in_millions": 19.003,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 42,
+                    "viewers_in_millions": 20.072,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                },
+                {
+                    "show_number": 43,
+                    "viewers_in_millions": 24.215,
+                    "judging_panel": "Simon Cowell, Ellen DeGeneres, Kara DioGuardi, Randy Jackson"
+                }
+            ]
+        },
+        {
+            "season": "10",
+            "episodes": [
+                {
+                    "show_number": 1,
+                    "viewers_in_millions": 26.23,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 2,
+                    "viewers_in_millions": 22.9,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 3,
+                    "viewers_in_millions": 25.33,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 4,
+                    "viewers_in_millions": 22.48,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 5,
+                    "viewers_in_millions": 25.14,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 6,
+                    "viewers_in_millions": 21.89,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 7,
+                    "viewers_in_millions": 24.05,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 8,
+                    "viewers_in_millions": 21.94,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 9,
+                    "viewers_in_millions": 23.2,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 10,
+                    "viewers_in_millions": 22.18,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 11,
+                    "viewers_in_millions": 22.72,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 12,
+                    "viewers_in_millions": 21.76,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 13,
+                    "viewers_in_millions": 21.39,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 14,
+                    "viewers_in_millions": 22.77,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 15,
+                    "viewers_in_millions": 25.26,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 16,
+                    "viewers_in_millions": 24.4,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 17,
+                    "viewers_in_millions": 22.05,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 18,
+                    "viewers_in_millions": 22.58,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 19,
+                    "viewers_in_millions": 19.57,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 20,
+                    "viewers_in_millions": 23.95,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 21,
+                    "viewers_in_millions": 21.3,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 22,
+                    "viewers_in_millions": 24.18,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 23,
+                    "viewers_in_millions": 22.63,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 24,
+                    "viewers_in_millions": 23.13,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 25,
+                    "viewers_in_millions": 21.54,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 26,
+                    "viewers_in_millions": 23.03,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 27,
+                    "viewers_in_millions": 21.92,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 28,
+                    "viewers_in_millions": 22.54,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 29,
+                    "viewers_in_millions": 20.32,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 30,
+                    "viewers_in_millions": 22.32,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 31,
+                    "viewers_in_millions": 19.6,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 32,
+                    "viewers_in_millions": 21.14,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 33,
+                    "viewers_in_millions": 21.29,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 34,
+                    "viewers_in_millions": 23.05,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 35,
+                    "viewers_in_millions": 22.45,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 36,
+                    "viewers_in_millions": 23.56,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 37,
+                    "viewers_in_millions": 21.76,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 38,
+                    "viewers_in_millions": 20.57,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 39,
+                    "viewers_in_millions": 29.29,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                }
+            ]
+        },
+        {
+            "season": "11",
+            "episodes": [
+                {
+                    "show_number": 1,
+                    "viewers_in_millions": 21.93,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 2,
+                    "viewers_in_millions": 18.02,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 3,
+                    "viewers_in_millions": 19.7,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 4,
+                    "viewers_in_millions": 19.67,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 5,
+                    "viewers_in_millions": 17.14,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 6,
+                    "viewers_in_millions": 18.48,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 7,
+                    "viewers_in_millions": 17.41,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 8,
+                    "viewers_in_millions": 19.32,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 9,
+                    "viewers_in_millions": 18.13,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 10,
+                    "viewers_in_millions": 18.89,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 11,
+                    "viewers_in_millions": 16.71,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 12,
+                    "viewers_in_millions": 16.1,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 13,
+                    "viewers_in_millions": 15.64,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 14,
+                    "viewers_in_millions": 16.11,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 15,
+                    "viewers_in_millions": 17.23,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 16,
+                    "viewers_in_millions": 18.27,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 17,
+                    "viewers_in_millions": 18.69,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 18,
+                    "viewers_in_millions": 17.27,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 19,
+                    "viewers_in_millions": 18.38,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 20,
+                    "viewers_in_millions": 16.02,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 21,
+                    "viewers_in_millions": 17.21,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 22,
+                    "viewers_in_millions": 15.58,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 23,
+                    "viewers_in_millions": 17.87,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 24,
+                    "viewers_in_millions": 15.87,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 25,
+                    "viewers_in_millions": 17.09,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 26,
+                    "viewers_in_millions": 14.34,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 27,
+                    "viewers_in_millions": 16.81,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 28,
+                    "viewers_in_millions": 15.81,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 29,
+                    "viewers_in_millions": 16.89,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 30,
+                    "viewers_in_millions": 14.99,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 31,
+                    "viewers_in_millions": 16.87,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 32,
+                    "viewers_in_millions": 14.87,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 33,
+                    "viewers_in_millions": 16.66,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 34,
+                    "viewers_in_millions": 15.56,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 35,
+                    "viewers_in_millions": 16.46,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 36,
+                    "viewers_in_millions": 15.62,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 37,
+                    "viewers_in_millions": 17.68,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 38,
+                    "viewers_in_millions": 16.4,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 39,
+                    "viewers_in_millions": 14.85,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                },
+                {
+                    "show_number": 40,
+                    "viewers_in_millions": 21.49,
+                    "judging_panel": "Randy Jackson, Jennifer Lopez, Steven Tyler"
+                }
+            ]
+        },
+        {
+            "season": "12",
+            "episodes": [
+                {
+                    "show_number": 1,
+                    "viewers_in_millions": 17.93,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 2,
+                    "viewers_in_millions": 16.28,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 3,
+                    "viewers_in_millions": 16.07,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 4,
+                    "viewers_in_millions": 15.65,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 5,
+                    "viewers_in_millions": 15.78,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 6,
+                    "viewers_in_millions": 13.8,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 7,
+                    "viewers_in_millions": 14.27,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 8,
+                    "viewers_in_millions": 13.28,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 9,
+                    "viewers_in_millions": 13.45,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 10,
+                    "viewers_in_millions": 12.59,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 11,
+                    "viewers_in_millions": 14.37,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 12,
+                    "viewers_in_millions": 13.66,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 13,
+                    "viewers_in_millions": 13.3,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 14,
+                    "viewers_in_millions": 12.56,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 15,
+                    "viewers_in_millions": 11.72,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 16,
+                    "viewers_in_millions": 12.84,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 17,
+                    "viewers_in_millions": 13.12,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 18,
+                    "viewers_in_millions": 13.44,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 19,
+                    "viewers_in_millions": 11.93,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 20,
+                    "viewers_in_millions": 12.94,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 21,
+                    "viewers_in_millions": 11.65,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 22,
+                    "viewers_in_millions": 12.33,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 23,
+                    "viewers_in_millions": 11.43,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 24,
+                    "viewers_in_millions": 11.76,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 25,
+                    "viewers_in_millions": 11.72,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 26,
+                    "viewers_in_millions": 12.23,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 27,
+                    "viewers_in_millions": 13.19,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 28,
+                    "viewers_in_millions": 12.71,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 29,
+                    "viewers_in_millions": 12.42,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 30,
+                    "viewers_in_millions": 12.46,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 31,
+                    "viewers_in_millions": 11.4,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 32,
+                    "viewers_in_millions": 11.08,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 33,
+                    "viewers_in_millions": 11.27,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 34,
+                    "viewers_in_millions": 11.11,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 35,
+                    "viewers_in_millions": 11.57,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 36,
+                    "viewers_in_millions": 12.11,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                },
+                {
+                    "show_number": 37,
+                    "viewers_in_millions": 14.31,
+                    "judging_panel": "Randy Jackson, Mariah Carey, Nicki Minaj, Keith Urban"
+                }
+            ]
+        },
+        {
+            "season": "13",
+            "episodes": [
+                {
+                    "show_number": 1,
+                    "viewers_in_millions": 15.19,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 2,
+                    "viewers_in_millions": 13.35,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 3,
+                    "viewers_in_millions": 13.29,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 4,
+                    "viewers_in_millions": 12.39,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 5,
+                    "viewers_in_millions": 12.73,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 6,
+                    "viewers_in_millions": 11.42,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 7,
+                    "viewers_in_millions": 13.43,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 8,
+                    "viewers_in_millions": 11.08,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 9,
+                    "viewers_in_millions": 11.67,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 10,
+                    "viewers_in_millions": 10.18,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 11,
+                    "viewers_in_millions": 9.73,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 12,
+                    "viewers_in_millions": 9.95,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 13,
+                    "viewers_in_millions": 9.36,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 14,
+                    "viewers_in_millions": 10.78,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 15,
+                    "viewers_in_millions": 10.01,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 16,
+                    "viewers_in_millions": 10.53,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 17,
+                    "viewers_in_millions": 9.76,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 18,
+                    "viewers_in_millions": 10.27,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 19,
+                    "viewers_in_millions": 8.86,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 20,
+                    "viewers_in_millions": 9.83,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 21,
+                    "viewers_in_millions": 8.41,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 22,
+                    "viewers_in_millions": 9.33,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 23,
+                    "viewers_in_millions": 7.98,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 24,
+                    "viewers_in_millions": 8.89,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 25,
+                    "viewers_in_millions": 7.72,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 26,
+                    "viewers_in_millions": 8.9,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 27,
+                    "viewers_in_millions": 7.63,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 28,
+                    "viewers_in_millions": 8.53,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 29,
+                    "viewers_in_millions": 7.97,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 30,
+                    "viewers_in_millions": 9.02,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 31,
+                    "viewers_in_millions": 7.68,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 32,
+                    "viewers_in_millions": 8.79,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 33,
+                    "viewers_in_millions": 7.03,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 34,
+                    "viewers_in_millions": 7.97,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 35,
+                    "viewers_in_millions": 7.18,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 36,
+                    "viewers_in_millions": 8.93,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 37,
+                    "viewers_in_millions": 8.67,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 38,
+                    "viewers_in_millions": 6.76,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 39,
+                    "viewers_in_millions": 10.53,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                }
+            ]
+        },
+        {
+            "season": "15",
+            "episodes": [
+                {
+                    "show_number": 1,
+                    "viewers_in_millions": 10.96,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 2,
+                    "viewers_in_millions": 10.21,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 3,
+                    "viewers_in_millions": 9.77,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 4,
+                    "viewers_in_millions": 8.72,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 5,
+                    "viewers_in_millions": 9.22,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 6,
+                    "viewers_in_millions": 9.36,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 7,
+                    "viewers_in_millions": 9.63,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 8,
+                    "viewers_in_millions": 8.77,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 9,
+                    "viewers_in_millions": 9.18,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 10,
+                    "viewers_in_millions": 8.94,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 11,
+                    "viewers_in_millions": 9.16,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 12,
+                    "viewers_in_millions": 8.96,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 13,
+                    "viewers_in_millions": 8.29,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 14,
+                    "viewers_in_millions": 8.19,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 15,
+                    "viewers_in_millions": 8.92,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 16,
+                    "viewers_in_millions": 8.72,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 17,
+                    "viewers_in_millions": 8.74,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 18,
+                    "viewers_in_millions": 8.06,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 19,
+                    "viewers_in_millions": 8.22,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 20,
+                    "viewers_in_millions": 8.02,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 21,
+                    "viewers_in_millions": 9.11,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 22,
+                    "viewers_in_millions": 5.98,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 23,
+                    "viewers_in_millions": 9.7,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                },
+                {
+                    "show_number": 24,
+                    "viewers_in_millions": 13.3,
+                    "judging_panel": "Harry Connick Jr., Jennifer Lopez, Keith Urban"
+                }
+            ]
+        },
+        {
+            "season": "16",
+            "episodes": [
+                {
+                    "show_number": 1,
+                    "viewers_in_millions": 10.48,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 2,
+                    "viewers_in_millions": 8.41,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 3,
+                    "viewers_in_millions": 7.81,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 4,
+                    "viewers_in_millions": 7.68,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 5,
+                    "viewers_in_millions": 7.51,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 6,
+                    "viewers_in_millions": 7.8,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 7,
+                    "viewers_in_millions": 7.48,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 8,
+                    "viewers_in_millions": 7.16,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 9,
+                    "viewers_in_millions": 7.23,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 10,
+                    "viewers_in_millions": 7.72,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 11,
+                    "viewers_in_millions": 6.35,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 12,
+                    "viewers_in_millions": 6.97,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 13,
+                    "viewers_in_millions": 7.46,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 14,
+                    "viewers_in_millions": 7.61,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 15,
+                    "viewers_in_millions": 8.77,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 16,
+                    "viewers_in_millions": 8.65,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 17,
+                    "viewers_in_millions": 8.53,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 18,
+                    "viewers_in_millions": 7.47,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 19,
+                    "viewers_in_millions": 8.63,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                }
+            ]
+        },
+        {
+            "season": "17",
+            "episodes": [
+                {
+                    "show_number": 1,
+                    "viewers_in_millions": 8.65,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 2,
+                    "viewers_in_millions": 7.82,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 3,
+                    "viewers_in_millions": 7.27,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 4,
+                    "viewers_in_millions": 7.18,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 5,
+                    "viewers_in_millions": 6.11,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 6,
+                    "viewers_in_millions": 7.08,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 7,
+                    "viewers_in_millions": 6.45,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 8,
+                    "viewers_in_millions": 7.22,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 9,
+                    "viewers_in_millions": 6.23,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 10,
+                    "viewers_in_millions": 6.12,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 11,
+                    "viewers_in_millions": 6.49,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 12,
+                    "viewers_in_millions": 7.26,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 13,
+                    "viewers_in_millions": 7.1,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 14,
+                    "viewers_in_millions": 7.11,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 15,
+                    "viewers_in_millions": 5.38,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 16,
+                    "viewers_in_millions": 8.74,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 17,
+                    "viewers_in_millions": 7.49,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 18,
+                    "viewers_in_millions": 7.87,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 19,
+                    "viewers_in_millions": 8.74,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                }
+            ]
+        },
+        {
+            "season": "18",
+            "episodes": [
+                {
+                    "show_number": 1,
+                    "viewers_in_millions": 8.08,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 2,
+                    "viewers_in_millions": 7.5,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 3,
+                    "viewers_in_millions": 7.0,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 4,
+                    "viewers_in_millions": 7.26,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 5,
+                    "viewers_in_millions": 7.47,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 6,
+                    "viewers_in_millions": 6.3,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 7,
+                    "viewers_in_millions": 7.7,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 8,
+                    "viewers_in_millions": 7.02,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 9,
+                    "viewers_in_millions": 7.33,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 10,
+                    "viewers_in_millions": 6.93,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 11,
+                    "viewers_in_millions": 5.63,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 12,
+                    "viewers_in_millions": 5.48,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 13,
+                    "viewers_in_millions": 6.09,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 14,
+                    "viewers_in_millions": 6.41,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 15,
+                    "viewers_in_millions": 6.16,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                },
+                {
+                    "show_number": 16,
+                    "viewers_in_millions": 7.28,
+                    "judging_panel": "Katy Perry, Luke Bryan, Lionel Richie"
+                }
+            ]
+        }
+    ]
+}

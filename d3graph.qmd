@@ -1,13 +1,12 @@
-# Interactive graph
-
 <style>
   * {
     font-family: sans-serif;
   }
-</style> 
+</style>
 
 <div id="plot">
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
 <script src="scripts/myscript.js"></script>
+
