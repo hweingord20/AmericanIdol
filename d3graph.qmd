@@ -1,3 +1,5 @@
+# Interactive Plot
+
 <style>
   * {
     font-family: sans-serif;
@@ -10,3 +12,5 @@
 <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
 <script src="scripts/myscript.js"></script>
 
+## Observations 
+The interactive heatmap provides a dynamic visualization of the relationship between seasons, average viewership, and the judging panel for each season. The color gradient effectively highlights the variations in viewer engagement across seasons, with darker shades representing seasons that attracted the largest audiences. Notably, seasons 5 and 6 stand out, as they are shaded the darkest, indicating peak viewership levels. As users interact with the heatmap, they can hover over each panel to reveal detailed information. This includes the average number of viewers (in millions) for that specific season, as well as the composition of judges for that season. 

@@ -1,9 +1,8 @@
 # Results
 
-##Viewership and Judges
+## Viewership and Judges
 
-```{r, error=TRUE}
-#| echo: false
+```{r, error=TRUE, warning = FALSE, message=FALSE}
 install.packages("lubridate")
 library(lubridate)
 library(scales)
@@ -20,7 +19,7 @@ ggplot(ratings, aes(x = airdate, y = viewers_in_millions)) +
 ```
 The graph demonstrates the distribution of viewers over the years, where each year corresponds to one season (with season 1 starting in 2002). Note that the multiple points within each years represents the different episodes for that one season. The peak viewership was in 2007 and 2008 for season 5 and season 6, at around 45 million viewers. The graph is right skewed - in the more recent years, the number of viewers drastically decreased. This decrease could potentially be from increase of popularity with other singing shows, such as The Voice. Another possible explanation for the decrease in viewers over the years could be related to the judges for each season. To further explore this idea, we created a heatmap showing the number of viewers per season and the different judges.  
 
-```{r, error = TRUE}
+```{r, error = TRUE, warning = FALSE, message=FALSE}
 library(dplyr)
 library(ggplot2)
 library(tidyr)
@@ -76,12 +75,15 @@ ggplot(heatmap_data, aes(x = factor(season), y = judge, fill = avg_viewers.avg_v
   ) +
   theme_minimal()
 ```
-Th
+The coloring represents the number of viewers per season, with dark blue indicating a higher viewership compared to light blue (see legend). As observed in the time series plot, seasons 5 and 6 had the highest number of viewers. Notably, Simon Cowell, Randy Jackson, and Paula Abdul served as judges during these seasons. Since these three were consistent judges in the early seasons, their popularity might explain the surge in viewership during this period.
 
-##Ranking
-```{r}
+After season 7, the panel of judges became more varied, lacking a consistent lineup. This inconsistency might be one reason for the decline in viewership in later seasons. Additionally, Luke Bryan, Katy Perry, and Lionel Richie were the judges for the most recent seasons, which coincided with the lowest viewership. Lastly, the heatmap highlights that Randy Jackson had the longest tenure as a judge on the show. 
+
+## Ranking
+```{r, warning = FALSE, message=FALSE}
 library(ggridges)
 library(dplyr)
+library(ggplot2)
 ratings <- read.csv("ratings.csv")
 # Ensure weekrank is numeric
 ratings$weekrank <- as.numeric(as.character(ratings$weekrank))
@@ -101,9 +103,12 @@ ggplot(filtered_ratings, aes(x = viewers_in_millions, y = factor(weekrank))) +
   theme_minimal()
 
 ```
+To continue our exploration on viewership patterns, we examined the relationship between the number of viewers per episode and episode rankings, considering all episodes across all seasons. Rankings range from 1 (best) to 22 (worst). The analysis reveals a clear pattern: higher-ranked episodes tend to have higher viewership, while lower-ranked episodes correspond to lower viewership. This indicates a correlation between episode rankings and viewership numbers.
 
-##Audition Cities
-```{r fig.height= 10, error=TRUE}
+Interestingly, lower-ranked episodes exhibit less variability, with viewership clustered tightly around the mode. In contrast, episodes ranked in the top 25% display a much wider distribution. In fact, the ridgeline plots for these episodes are nearly flat, reflecting significant variation in viewership.
+
+## Audition Cities
+```{r fig.height= 10, error=TRUE, warning = FALSE, message=FALSE}
 auditions <- read.csv("auditions.csv")
 
 ggplot(auditions |>
@@ -113,8 +118,8 @@ ggplot(auditions |>
   theme_minimal()
 
 ```
-
-```{r fig.height= 20, error=TRUE}
+Our next area of focus was understanding where people initially auditioned and which cities produced the highest number of contestants. To examine this, we first created a Cleaveland Dot Plot to show the cities that held auditions, and the number of tickets to hollywood each city gave out. This plot is looking at all seasons, where multiple dots within one city correspond to different seasons. Most of the cities seem to give out 50 or so tickets each season. However, we can see three drastic outliers - one from LA at about 300, another from SF at about 450, and a third from Nashville at about 550. We will remove these outliers and focus on the remaining data, exmaining cities season by season. 
+```{r fig.height= 20, error=TRUE, warning = FALSE, message=FALSE}
 library(ggplot2)
 library(plotly)
 auditions <- read.csv("auditions.csv")
@@ -140,10 +145,10 @@ ggplot_object <- ggplot(auditions_filtered, aes(x = tickets_to_hollywood, y = re
 ggplotly(ggplot_object, height = 1500)
 
 ```
+It’s important to note that our data covers only seasons 1 through 13. Breaking the data down by city highlights the most consistent audition locations, such as San Francisco (SF) and Los Angeles (LA), which appear in nearly every season. Most seasons featured auditions in six cities; however, season 10 was an exception, with auditions held in only four cities. The exploration of audition location led us to wonder where the contestants, specifically the finalists, are from. We explore this below.  
 
-##Birthplaces of Finalists
-
-```{r}
+## Birthplaces of Finalists
+```{r, warning = FALSE, message=FALSE}
 library(ggplot2)
 library(maps)
 library(dplyr)
@@ -164,6 +169,10 @@ ggplot() +
    ylim(-50,100)+
   ggtitle("World Distribution of Finalists")
 ```
+
+The map highlights the birthplaces of finalists throghout the 18 seasons. We can see a majority of finalists are from the United States, with a few international people. We can zoom in on the US to learn more about where within the United States finalists come from. 
+
+
 ```{r}
 usa_map <- filter(world_map,region=="USA")
 usa_finalists <- filter(finalists_geocoded, long < -50, lat >0)
@@ -180,9 +189,9 @@ ggplot() +
   ylim(25,50)+
   ggtitle("USA Distribution of Finalists")
 ```
+We see a lot of finalists are from the east coast, specifically New York. We can also see another cluster in SF and LA. It seems that most of the finalists come from big cities. Interestingly, there are few finalists from the midwest. 
 
-##Age and Gender
-
+## Age and Gender
 ```{r fig.height=7}
 elim <- read.csv("elimination_chart.csv")
 elim_cleaned <- elim |>
@@ -194,7 +203,9 @@ ggplot(elim_cleaned, aes(x=gender))+
   labs(title = "Gender Distribution by Season", x = "Gender", y="Count")+
   theme_minimal()
 ```
+Next, we can explore gender distribution, starting with the overall count for each season. Generally, most seasons display a fairly even split between male and female participants. However, seasons 2 and 3 stand out as potential outliers, with a significantly higher number of female participants.
 
+By plotting the number of participants by gender for each season, we also gain insights into the total number of participants per season. It appears that most seasons have a similar participant count, with the exception of season 13, which seems to have notably more participants.
 
 ```{r}
  filtered_gender <- elim_cleaned[elim_cleaned$place == 1, ] 
@@ -203,7 +214,7 @@ ggplot(filtered_gender, aes(x = gender)) +
   labs(title = "Gender Distribution of Winners", x = "Gender", y = "Count") + 
   theme_minimal()
 ```
-
+Unlike the gender distribution of all participants throughout the seasons, the gender distribution of winners throughout the seasons is not even, with males winning more than females (10 to 7).
 
 ```{r}
 library(dplyr)
@@ -245,7 +256,7 @@ ggplot(winners_only, aes(x = age, fill = is_winner)) +
   theme_minimal()
 
 ```
-
+To further explore the winners, we examine the age distribution of winners with a density curve. The curve shows that the average age of winners is around 23 and 24 years old. The plot is right-skewed, with not as many older winners. Lastly, the youngest age of a winner is around 18 years old. 
 
 ```{r}
 finalists_with_season <- finalists_with_season |>
@@ -257,5 +268,7 @@ ggplot(finalists_with_season, aes(x = age, color = group, fill = group)) +
   theme_minimal()
 ```
 
+Next, we overlay the density curve of age distribution for finalists across all seasons with that of the winners. The average age for both groups appears similar, around 23 to 24 years old. However, the density curve for finalists is less right-skewed compared to that of the winners, suggesting that there are more older finalists than winners.
 
+Interestingly, the density curve for finalists shows a slight bimodal pattern, with peaks around ages 18 and 24. This contrasts with the winners' distribution, which is more concentrated around a single mode.
 

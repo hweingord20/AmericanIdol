@@ -127,7 +127,3 @@ svg.append("text")
     .style("font-size", "20px")
     .style("font-weight", "bold")
     .text("Average Viewership per Season");
-
-
-
-
