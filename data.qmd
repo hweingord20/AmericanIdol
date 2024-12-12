@@ -1,5 +1,5 @@
 # Data
-We will answer our questions using 6 different datasets. The data was collected from Wikipedia for seasons 1-18 and converted into various csv files. We found the link on Github containing all the files.
+We will answer our questions using 6 different datasets. The data was collected from Wikipedia for seasons 1-18 and converted into various csv files. We found the link on Github containing all the files (https://github.com/kkakey/American_Idol).
 
 ## Description
 1. **Songs**: includes songs that contestants sang and competed with on American Idol from seasons 1-18 (with dimensions 2430 x 8)
@@ -9,7 +9,7 @@ We will answer our questions using 6 different datasets. The data was collected 
 5. **Ratings**: episode ratings and reviews (with dimensions 594 x 17)
 6. **Seasons**: season-level information, including season winner, runner up and release dates and judges (with dimensions 19 x 10)
 
-## Missing value analysis
+## Missing Value Analysis
 ```{r}
 auditions <- read.csv("auditions.csv")
 ```
